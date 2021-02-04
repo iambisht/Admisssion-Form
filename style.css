@@ -1,4 +1,88 @@
 body{
-	color:purple;
-	background:pink;
+	background:url("https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60.jpg")rgba(20,55,23,0.9);
+
+}
+
+h1{
+	text-align: center;
+	font-size: 60px;	
+	color:white;
+
+
+}
+
+form{
+	font-size:25px;
+}
+
+
+
+#div1{
+
+	width:34%;
+	height:440px;
+	margin:0px auto 10px auto;
+	border:7px solid blue;
+	padding-left:40px;
+	padding-right: 10px;
+    background:rgba(241,238,236,0.8);
+}
+
+label{
+	font-weight: bold;
+}
+
+#uname{
+	font-size: 15px;
+	width:230px;
+	height:30px;
+	background:rgba(214,207,204,0.8);
+	margin-top:10px;
+	margin-left:4px;
+
+}
+
+#pass{
+	font-size: 15px;
+	width:240px;
+	height:30px;
+	background:rgba(214,207,204,0.8);
+	margin-top:10px;
+}
+
+#email{
+	font-size: 15px;
+	width:245px;
+	height:30px;
+	background:rgba(214,207,204,0.8); 
+    margin-left: 10px;
+}
+
+.btn{
+
+	font-size:30px;
+	font-weight:300;
+	padding:10px auto 10px auto;
+	background:rgba(160,170,255,0.8);
+	margin-bottom:20px;
+	margin-left:150px;
+	border:4px;
+}
+.le{
+	margin-left: 22px;
+}
+.lu{
+	margin-left:18px;
+}
+
+.di1{
+	font-size:20px;
+	margin:0 auto;
+	background:white;
+    width:70px;
+}
+
+span{
+	color:blue;
+	text-decoration:underline;
 }
